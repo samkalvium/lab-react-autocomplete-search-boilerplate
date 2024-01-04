@@ -1,0 +1,33 @@
+* {
+  margin: 8px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 600px;
+  background-color: grey;
+  padding: 20px;
+  border-radius: 50px;
+  margin-left: 350px;
+}
+
+.container input {
+  border: none;
+  border-radius: 20px;
+  width: 250px;
+  height: 30px;
+  padding-left: 10px;
+}
+
+.container button {
+  padding: 3px;
+  border: none;
+  border-radius: 20px;
+}
+
+.suggs {
+  width: 300px;
+  text-align: left;
+
+}
